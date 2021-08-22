@@ -33,6 +33,7 @@ User Type (Subscriber or Customer)
 The Chicago and New York City files also have the following two columns:
 
 Gender
+
 Birth Year
 
 Data for the first 10 rides in the new_york_city.csv file
@@ -47,15 +48,18 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 most common month
 most common day of week
 most common hour of day
+
 #2 Popular stations and trip
 
 most common start station
 most common end station
 most common trip from start to end (i.e., most frequent combination of start station and end station)
+
 #3 Trip duration
 
 total travel time
 average travel time
+
 #4 User info
 
 counts of each user type
@@ -64,9 +68,13 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 The Files
 To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a bikeshare.py file, and you will do your scripting in there also. You will need the three city dataset files too:
 
+
 chicago.csv
+
 new_york_city.csv
+
 washington.csv
+
 All four of these files are zipped up in the Bikeshare file in the resource tab in the sidebar on the left side of this page. You may download and open up that zip file to do your project work on your local machine.
 
 Some versions of this project also include a Project Workspace page in the classroom where the bikeshare.py file and the city dataset files are all included, and you can do all your work with them there.
